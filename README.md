@@ -18,3 +18,5 @@ we havevtales as follows:
  orders
 
 Author : Falguni Mehta
+
+this project is part of my portfolio ,showing the SQL skills essential for data analyst roles.
