@@ -10,3 +10,10 @@ mysql,
 csv file
 
 
+we havevtales as follows:
+ books
+
+ customers
+
+ orders
+
